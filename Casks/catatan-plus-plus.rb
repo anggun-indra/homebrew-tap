@@ -1,6 +1,6 @@
 cask "catatan-plus-plus" do
-  version "1.0.4"
-  sha256 "160fc7fad8b54a2065a50943cbbd171e036ae2b935b6ae1c039ab7e888bef427"
+  version "1.0.5"
+  sha256 "6936fa5d230f8163be109a51c6b0e6e67dc4d25d5b1540c355237525b1ede53b"
 
   url "https://github.com/anggun-indra/catatan-plus-plus/releases/download/v#{version}/Catatan%2B%2B-v#{version}-macOS-arm64.dmg"
   name "Catatan++"
